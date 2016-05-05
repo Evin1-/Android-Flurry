@@ -1,7 +1,6 @@
 package com.example.simpleflurry;
 
 import android.app.Application;
-import android.util.Log;
 
 import com.flurry.android.FlurryAgent;
 
