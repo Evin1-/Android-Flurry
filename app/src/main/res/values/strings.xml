@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">SimpleFlurry</string>
+    <string name="flurry_key">YOUR_FLURRY_KEY_HERE</string>
 </resources>
